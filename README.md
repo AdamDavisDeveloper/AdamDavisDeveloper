@@ -1,4 +1,4 @@
-## Heya, I'm Adam 😌✌️
+## Heya, I'm Adam
 
 
 I'm a software engineer currently living in Atlanta, GA. I work as a web developer at [Sionic Mobile](https://sionicmobile.com/) where I wear a lot of hats.
