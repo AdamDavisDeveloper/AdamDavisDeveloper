@@ -1,7 +1,7 @@
 ## Heya, I'm Adam
 
 
-I'm a software engineer currently living in Atlanta, GA. I work as a web developer at [Sionic Mobile](https://sionicmobile.com/) where I wear a lot of hats.
+I'm a software engineer currently living in Atlanta, GA. I work as a web developer at [Sionic Mobile](https://sionicmobile.com/),
 I like making new friends and learning all kinds of new things!
 
 ### I use these cool guys to make stuff
