@@ -2,7 +2,8 @@
 
 
 I'm a software engineer currently living in Atlanta, GA. I work as a web developer at [Sionic Mobile](https://sionicmobile.com/).
-I like making new friends and learning all kinds of new things!
+I like making new friends, creating tech passion projects, and learning all kinds of new things! 
+I'm chill until I meet a terrible UI.
 
 ![adam's_garden](https://user-images.githubusercontent.com/68540487/133674549-b7864c7e-41d5-41ec-b4b0-ac0c85b7c3b6.gif) <img src="https://anlucas.neocities.org/263gggk.gif" /> <img src="https://anlucas.neocities.org/affection.gif" />
 
