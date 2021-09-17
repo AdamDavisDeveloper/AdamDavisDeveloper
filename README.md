@@ -1,7 +1,7 @@
 ## Heya, I'm Adam
 
 
-I'm a software engineer currently living in Atlanta, GA. I work as a web developer at [Sionic Mobile](https://sionicmobile.com/) (which is why my Github has been so dead 😬).
+I'm a software engineer currently living in Atlanta, GA. I work as a web developer at [Sionic Mobile](https://sionicmobile.com/) (which is why my personal Github has been so dead 😬).
 I like making new friends, creating tech passion projects, and learning all kinds of new things! 
 I'm chill until I meet a terrible UI.
 
