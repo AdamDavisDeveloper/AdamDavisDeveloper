@@ -2,7 +2,7 @@
 
 
 I'm a software engineer currently living in Atlanta, GA. I work as a web developer at [Sionic Mobile](https://sionicmobile.com/) (which is why my personal Github has been so dead 😬).
-I like making new friends, creating tech passion projects, and learning all kinds of new things! 
+I like making new friends, creating tech projects, and learning all kinds of new things! 
 I'm chill until I meet a terrible UI.
 
 <a href="https://adams-garden.netlify.app/"> ![adam's_garden](https://user-images.githubusercontent.com/68540487/133674549-b7864c7e-41d5-41ec-b4b0-ac0c85b7c3b6.gif) <a/> 
