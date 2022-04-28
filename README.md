@@ -1,8 +1,8 @@
 ## Heya, I'm Adam
 
 
-I'm a software engineer currently living in Atlanta, GA. I work as a web developer at <a href="https://github.com/adamSionic">Sionic Mobile</a> (which is why my personal Github has been so dead 😬).
-I like making new friends, creating tech projects, and learning all kinds of new things!
+I'm a software engineer and <a href="https://en.wikipedia.org/wiki/Maker_culture">maker</a> currently living in Atlanta, GA. I work as a web developer at <a href="https://github.com/adamSionic">Sionic Mobile</a> (which is why my personal Github has been so dead).
+I like making friends, creating new and exciting things, and always learning new stuff!
 
 ![image(2)](https://user-images.githubusercontent.com/68540487/161441324-b1d82369-6db7-4bf3-9aaf-a812bc3dc6e4.gif)
 
