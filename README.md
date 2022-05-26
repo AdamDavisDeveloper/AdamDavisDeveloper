@@ -1,12 +1,12 @@
 ## Adam Embraces Neuroplasticity | Energy Society | Philosphy, Design, Low-Tech Highlife
 
 
-I'm a software engineer and <a href="https://en.wikipedia.org/wiki/Maker_culture">maker</a> currently living in Atlanta, GA, and working as a web developer at <a href="https://github.com/adamSionic">Sionic Mobile</a> (which is why my personal Github has been so dead).
+I'm a software engineer and <a href="https://en.wikipedia.org/wiki/Maker_culture">maker</a> currently living in Atlanta, GA, and working as a web developer at <a href="https://github.com/adamSionic">Sionic Mobile</a>.
 
-// Don't kill what you hate <br>
-// Save what you love, <br>
-// Make new things and <br>
-// Render obsolete the bad. <br>
+// <i>Don't kill what you hate</i> <br>
+// <i>Save what you love</i>, <br>
+// <i>Make new things and</i> <br>
+// <i>Render obsolete the bad</i>. <br>
 
 ![image(2)](https://user-images.githubusercontent.com/68540487/161441324-b1d82369-6db7-4bf3-9aaf-a812bc3dc6e4.gif)
 
