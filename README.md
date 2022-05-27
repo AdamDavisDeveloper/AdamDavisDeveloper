@@ -7,6 +7,8 @@ I'm a software engineer and <a href="https://en.wikipedia.org/wiki/Maker_culture
 // <i>Save what you love</i>, <br>
 // <i>Make new things and</i> <br>
 // <i>Render obsolete the bad</i>. <br>
+<br>
+<a href="https://www.lesswrong.com/">*💡*</a>
 
 ![image(2)](https://user-images.githubusercontent.com/68540487/161441324-b1d82369-6db7-4bf3-9aaf-a812bc3dc6e4.gif)
 
