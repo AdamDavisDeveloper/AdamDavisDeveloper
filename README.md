@@ -10,7 +10,9 @@ I'm a software engineer and <a href="https://en.wikipedia.org/wiki/Maker_culture
 <br>
 <a href="https://www.lesswrong.com/">*💡*</a>
 
-![image(2)](https://user-images.githubusercontent.com/68540487/161441324-b1d82369-6db7-4bf3-9aaf-a812bc3dc6e4.gif)
+![image(2)](https://user-images.githubusercontent.com/68540487/161441324-b1d82369-6db7-4bf3-9aaf-a812bc3dc6e4.gif) <br>
+
+( i would like some light-hearted cringe, please. for one, thank you. )
 
 <a href="https://adams.land/" target="_blank"> ![adam's_garden](https://user-images.githubusercontent.com/68540487/133674549-b7864c7e-41d5-41ec-b4b0-ac0c85b7c3b6.gif) <a/> 
 <img src="https://anlucas.neocities.org/263gggk.gif" /> <img src="https://anlucas.neocities.org/affection.gif" />
