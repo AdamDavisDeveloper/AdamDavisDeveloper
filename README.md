@@ -13,9 +13,14 @@ you can design *everything*" - Massimo Vignelli
 // <i>Render obsolete the bad</i>. <br>
 <br>
 
+Working on: 
+- Augmenting the human <a href="https://en.wikipedia.org/wiki/Umwelt">umwelt</a>
+- Expanding my personal <a href="https://en.wikipedia.org/wiki/Reality_tunnel">reality tunnel</a>
+- Creating new ways for people to connect (Palvox Audio)
+
 Currently Learning:
-- Romanian
-- Knitting
+- Romanian (lang.)
+- Knitting (skill)
 - Swift (for iOS)
 
 ![image(2)](https://user-images.githubusercontent.com/68540487/161441324-b1d82369-6db7-4bf3-9aaf-a812bc3dc6e4.gif) <br>
