@@ -17,7 +17,7 @@ Some Recent Projects:
 - Palvox | Audio Pen Pals (v. 0.3)
 - <a href="https://missed-connections.netlify.app/" target="_blank">Missed Connections</a>
 - <a href="https://see-something-new.netlify.app/" target="_blank">See Something New</a>
-- <a href="https://learn-sino-korean.netlify.app/" target="_blank">Learn Korean Numbers</a>
+- <a href="https://learn-korean-numbers.netlify.app/" target="_blank">Learn Korean Numbers</a>
 
 Working on: 
 - Augmenting the human <a href="https://en.wikipedia.org/wiki/Umwelt">umwelt</a>
