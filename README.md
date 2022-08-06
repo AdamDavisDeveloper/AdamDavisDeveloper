@@ -30,7 +30,7 @@ Currently Learning:
 - Swift (for iOS)
 - Rust (because it's cool)
 
-<a href="http://www.innergeek.us"><img src="http://www.innergeek.us/grafix/avatars/totalgeek.gif" alt="total geek" border="0"></a>
+<a href="http://www.innergeek.us/geek-test.html"><img src="http://www.innergeek.us/grafix/avatars/totalgeek.gif" alt="total geek" border="0"></a>
 
 ![image(2)](https://user-images.githubusercontent.com/68540487/161441324-b1d82369-6db7-4bf3-9aaf-a812bc3dc6e4.gif) <br>
 ![Screen Shot 2022-06-10 at 9 58 07 AM](https://user-images.githubusercontent.com/68540487/173082232-a1a7e840-f65e-4137-a009-b25c669914b5.png)
