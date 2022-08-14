@@ -19,17 +19,6 @@ Some Recent Projects:
 - <a href="https://see-something-new.netlify.app/" target="_blank">See Something New</a>
 - <a href="https://learn-korean-numbers.netlify.app/" target="_blank">Learn Korean Numbers</a>
 
-Working on: 
-- Augmenting the human <a href="https://en.wikipedia.org/wiki/Umwelt">umwelt</a>
-- Expanding my personal <a href="https://en.wikipedia.org/wiki/Reality_tunnel">reality tunnel</a>
-- Creating new ways for people to connect (Palvox Audio)
-
-Currently Learning:
-- Romanian (lang.)
-- Knitting (skill)
-- Swift (for iOS)
-- Rust (because it's cool)
-
 <a href="http://www.innergeek.us/geek-test.html"><img src="http://www.innergeek.us/grafix/avatars/totalgeek.gif" alt="total geek" border="0"></a>
 
 ![image(2)](https://user-images.githubusercontent.com/68540487/161441324-b1d82369-6db7-4bf3-9aaf-a812bc3dc6e4.gif) <br>
