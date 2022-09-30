@@ -7,7 +7,7 @@ I'm a software engineer and <a href="https://en.wikipedia.org/wiki/Maker_culture
 "If you can design one thing, <br>
 you can design *everything*" - Massimo Vignelli
 
-"Let's use the web to create neat new exciting things.
+"Let's use the web to create neat new exciting things. <br>
 Let's use the web to help people understand each other."
 — Tim Berners-Lee 
 
