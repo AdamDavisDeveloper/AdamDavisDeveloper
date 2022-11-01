@@ -15,9 +15,8 @@ Let's use the web to help people understand each other."
 // <i>Save what you love</i>, <br>
 // <i>Make new things and</i> <br>
 // <i>Render obsolete the bad</i>. <br>
-<br>
 
-Some Recent Projects:
+#### 👨‍💻 Some Recent Projects:
 - Palvox | Audio Pen Pals (v. 0.3)
 - <a href="https://missed-connections.netlify.app/" target="_blank">Missed Connections</a>
 - <a href="https://see-something-new.netlify.app/" target="_blank">See Something New</a>
