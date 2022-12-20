@@ -1,4 +1,4 @@
-## Hey, I'm Adam 👋 Retro Futurist | Creator | Designer
+## Hey, I'm Adam 👋 Photographer | Creator | Designer
 
 
 I'm a software engineer and <a href="https://en.wikipedia.org/wiki/Maker_culture">maker</a> currently living in Atlanta, GA, working as a software engineer and designer at <a href="https://github.com/adamSionic">Sionic</a>. <br> Livin' life from the comfort of my terminal. ✨
