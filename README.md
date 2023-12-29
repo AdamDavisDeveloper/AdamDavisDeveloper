@@ -19,8 +19,7 @@ Let's use the web to help people understand each other."
 // <i>Render obsolete the bad</i>. <br>
 
 #### 👨‍💻 Some Recent Projects:
-- Palvox | Audio Pen Pals (v. 0.3)
-- <a href="https://missed-connections.netlify.app/" target="_blank">Missed Connections</a>
+- <a href="https://github.com/AdamDavisDeveloper/micahs-game" target="_blank">Micah's Game</a>
 - <a href="https://see-something-new.netlify.app/" target="_blank">See Something New</a>
 - <a href="https://learn-korean-numbers.netlify.app/" target="_blank">Learn Korean Numbers</a>
 
