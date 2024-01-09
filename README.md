@@ -13,11 +13,6 @@ you can design *everything*" - Massimo Vignelli
 Let's use the web to help people understand each other."
 — Tim Berners-Lee 
 
-// <i>Don't kill what you hate</i> <br>
-// <i>Save what you love</i>, <br>
-// <i>Make new things and</i> <br>
-// <i>Render obsolete the bad</i>. <br>
-
 #### 👨‍💻 Some Recent Projects:
 - <a href="https://github.com/AdamDavisDeveloper/micahs-game" target="_blank">Micah's Game</a>
 - <a href="https://see-something-new.netlify.app/" target="_blank">See Something New</a>
