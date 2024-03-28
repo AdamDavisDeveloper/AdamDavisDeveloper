@@ -14,7 +14,7 @@ Let's use the web to help people understand each other."
 — Tim Berners-Lee 
 
 #### 👨‍💻 Some Recent Projects:
-- <a href="https://github.com/AdamDavisDeveloper/outer-space-connector" target="_blank">Slot Machine Simulator</a>
+- <a href="https://github.com/AdamDavisDeveloper/slot-machine" target="_blank">Slot Machine Simulator</a>
 - <a href="https://github.com/AdamDavisDeveloper/micahs-game" target="_blank">Micah's Game</a>
 - <a href="https://see-something-new.netlify.app/" target="_blank">See Something New</a>
 - <a href="https://learn-korean-numbers.netlify.app/" target="_blank">Learn Korean Numbers</a>
