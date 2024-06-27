@@ -1,7 +1,7 @@
 ## Hey, I'm Adam 👋 Developer | Creator | Designer
 
 
-I'm a software engineer and <a href="https://en.wikipedia.org/wiki/Maker_culture">maker</a> currently living in Atlanta, GA, working as a software engineer and designer. Just started a new job that I like a lot. ✨
+I'm a software engineer and <a href="https://en.wikipedia.org/wiki/Maker_culture">maker</a> currently living in the bay area and working as a software engineer / designer.
 <br>
 
 #### 🗣 Smart Words:
