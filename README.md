@@ -19,8 +19,8 @@ Let's use the web to help people understand each other."
 
 #### ⚭ Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Vite JS, The Incredibly Fast Frontend Environment](https://adamsblog.hashnode.dev/vite-js-the-incredibly-fast-frontend-environment)
- - 🐙 [The ultimate CSS Pseudo-class...](https://adamsblog.hashnode.dev/the-ultimate-css-pseudo-class)<!-- BLOGPOSTS:END -->
+⚘ [Vite JS, The Incredibly Fast Frontend Environment](https://adamsblog.hashnode.dev/vite-js-the-incredibly-fast-frontend-environment) <br>
+⚘ [The ultimate CSS Pseudo-class...](https://adamsblog.hashnode.dev/the-ultimate-css-pseudo-class)<!-- BLOGPOSTS:END -->
 
 
 <img width="259" alt="Screenshot 2024-07-02 at 11 01 33 PM" src="https://github.com/AdamDavisDeveloper/AdamDavisDeveloper/assets/68540487/00a5a47a-25d2-424f-8da1-8b74f6e5a70e">
