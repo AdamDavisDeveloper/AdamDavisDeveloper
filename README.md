@@ -1,6 +1,6 @@
 ### Hey, I'm Adam ⚇ Developer | Creator | Designer ⚆
 ----------------------------------------
-#### Check my <a href="https://github.com/AdamDavisDeveloper/neovim-config" target="_blank">Neovim config</a> 🃛
+#### Check my <a href="https://github.com/AdamDavisDeveloper/neovim-config" target="_blank">Neovim</a> and <a href="https://github.com/AdamDavisDeveloper/neofetch-config">Neofetch</a> configs 🃛
 
 #### ✧ Smart Words:
 
