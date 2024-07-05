@@ -2,7 +2,7 @@
 ----------------------------------------
 #### Check my <a href="https://github.com/AdamDavisDeveloper/neovim-config" target="_blank">Neovim</a> and <a href="https://github.com/AdamDavisDeveloper/neofetch-config">Neofetch</a> configs 🃛
 
-#### ✧ Smart Words:
+#### ✧ Wisdom:
 
 "If you can design one thing, <br>
 you can design *everything*" - Massimo Vignelli
