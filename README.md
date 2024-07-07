@@ -21,7 +21,7 @@ Let's use the web to help people understand each other."
 <!-- BLOGPOSTS:START -->⚘ [Vite JS, The Incredibly Fast Frontend Environment](https://adamsblog.hashnode.dev/vite-js-the-incredibly-fast-frontend-environment) <br>⚘ [The ultimate CSS Pseudo-class...](https://adamsblog.hashnode.dev/the-ultimate-css-pseudo-class) <br><!-- BLOGPOSTS:END -->
 
 
-<img width="259" alt="Screenshot 2024-07-02 at 11 01 33 PM" src="https://github.com/AdamDavisDeveloper/AdamDavisDeveloper/assets/68540487/00a5a47a-25d2-424f-8da1-8b74f6e5a70e">
+<img width="260" alt="Screenshot 2024-07-02 at 11 01 33 PM" src="https://github.com/AdamDavisDeveloper/AdamDavisDeveloper/assets/68540487/00a5a47a-25d2-424f-8da1-8b74f6e5a70e">
 
 <a href="https://adams.land/" target="_blank"> ![adamsland](https://github.com/AdamDavisDeveloper/AdamDavisDeveloper/assets/68540487/aec7ef32-beb7-4ad1-8169-006c9c34efc0) <a/> 
 <img src="https://anlucas.neocities.org/263gggk.gif" /> <img src="https://anlucas.neocities.org/affection.gif" />
