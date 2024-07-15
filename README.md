@@ -17,9 +17,6 @@ Let's use the web to help people understand each other."
 ⚘ <a href="https://see-something-new.netlify.app/" target="_blank">See Something New</a> <br>
 ⚘ <a href="https://learn-korean-numbers.netlify.app/" target="_blank">Learn Korean Numbers<a/> <br>
 
-#### ⚭ Recent Blog Posts
-<!-- BLOGPOSTS:START -->⚘ [Vite JS, The Incredibly Fast Frontend Environment](https://adamsblog.hashnode.dev/vite-js-the-incredibly-fast-frontend-environment) <br>⚘ [The ultimate CSS Pseudo-class...](https://adamsblog.hashnode.dev/the-ultimate-css-pseudo-class) <br><!-- BLOGPOSTS:END -->
-
 
 <img width="260" alt="Screenshot 2024-07-02 at 11 01 33 PM" src="https://github.com/AdamDavisDeveloper/AdamDavisDeveloper/assets/68540487/00a5a47a-25d2-424f-8da1-8b74f6e5a70e">
 
