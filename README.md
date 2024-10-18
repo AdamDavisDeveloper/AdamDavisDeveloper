@@ -1,4 +1,4 @@
-### Hey, I'm Adam ⚇ Developer | Creator | Designer ⚆
+### Hey, I'm Adam ⚇ Engineer, Designer ⚆
 ----------------------------------------
 
 #### ✧ Wisdom:
