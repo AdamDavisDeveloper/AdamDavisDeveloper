@@ -1,6 +1,5 @@
 ### Hey, I'm Adam ⚇ Developer | Creator | Designer ⚆
 ----------------------------------------
-#### Check my <a href="https://github.com/AdamDavisDeveloper/neovim-config" target="_blank">Neovim</a> and <a href="https://github.com/AdamDavisDeveloper/neofetch-config">Neofetch</a> configs 🃛
 
 #### ✧ Wisdom:
 
@@ -17,6 +16,7 @@ Let's use the web to help people understand each other."
 ⚘ <a href="https://see-something-new.netlify.app/" target="_blank">See Something New</a> <br>
 ⚘ <a href="https://learn-korean-numbers.netlify.app/" target="_blank">Learn Korean Numbers<a/> <br>
 
+#### <a href="https://github.com/AdamDavisDeveloper/neovim-config" target="_blank">Neovim</a> and <a href="https://github.com/AdamDavisDeveloper/neofetch-config">Neofetch</a> configs 🃛
 
 <img width="260" alt="Screenshot 2024-07-02 at 11 01 33 PM" src="https://github.com/AdamDavisDeveloper/AdamDavisDeveloper/assets/68540487/00a5a47a-25d2-424f-8da1-8b74f6e5a70e">
 
