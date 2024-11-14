@@ -1,5 +1,6 @@
 ### Hey, I'm Adam ⚇ Engineer, Designer ⚆
 ----------------------------------------
+i wish i had more time to work on personal projects and write more code.
 
 #### ✧ Wisdom:
 
