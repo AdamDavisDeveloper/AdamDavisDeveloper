@@ -2,6 +2,9 @@
 ----------------------------------------
 i wish i had more time to work on personal projects and write more code.
 
+![NixOS](https://img.shields.io/badge/NixOS-NixOS?style=flat&logo=NixOS&logoColor=white&color=%235277C3)
+
+
 #### ✧ Wisdom:
 
 "If you can design one thing, <br>
