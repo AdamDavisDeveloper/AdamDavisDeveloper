@@ -11,7 +11,7 @@ i wish i had more time to work on personal projects and write more code.
 #### ✧ Wisdom:
 
 "If you can design one thing, <br>
-you can design *everything*" - Massimo Vignelli
+you can design everything" - Massimo Vignelli
 
 "Let's use the web to create neat new exciting things. <br>
 Let's use the web to help people understand each other."
