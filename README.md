@@ -19,7 +19,7 @@ Let's use the web to help people understand each other."
 
 #### ☼ Some Recent Projects:
 ⚘ <a href="https://github.com/AdamDavisDeveloper/slot-machine" target="_blank">Slot Machine Simulator</a> <br>
-⚘ <a href="https://github.com/AdamDavisDeveloper/micahs-game" target="_blank">Micah's Game</a> <br>
+⚘ <a href="https://github.com/AdamDavisDeveloper/workout-tracker-tui" target="_blank">TUI Workout App</a> <br>
 ⚘ <a href="https://see-something-new.netlify.app/" target="_blank">See Something New</a> <br>
 ⚘ <a href="https://learn-korean-numbers.netlify.app/" target="_blank">Learn Korean Numbers<a/> <br>
 
