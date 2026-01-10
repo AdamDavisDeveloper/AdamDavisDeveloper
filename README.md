@@ -1,6 +1,6 @@
 ### Hey, I'm Adam ⚇ Engineer, Designer ⚆
 ----------------------------------------
-currently working on learning natural systems simulations.
+currently working on a card game app
 
 ![NixOS](https://img.shields.io/badge/NixOS-NixOS?style=flat&logo=NixOS&logoColor=white&color=%235277C3)
 ![Hyprland](https://img.shields.io/badge/Hyprland-Hyprland?style=flat&logo=Hyprland&logoColor=white&color=%2358E1FF)
