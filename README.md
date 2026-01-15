@@ -14,7 +14,7 @@ currently working on a ![card game app](https://github.com/AdamDavisDeveloper/mi
 "If you can design one thing, <br>
 you can design everything" - Massimo Vignelli
 
-"Let's use the web to create neat new exciting things. <br>
+"Let's use the web to create neat, new, exciting things. <br>
 Let's use the web to help people understand each other."
 — Tim Berners-Lee 
 
