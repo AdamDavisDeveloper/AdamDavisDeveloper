@@ -7,7 +7,7 @@ currently working on a ![card game app](https://github.com/AdamDavisDeveloper/mi
 ![Neovim](https://img.shields.io/badge/Neovim-Neovim?style=flat&logo=Neovim&logoColor=white&color=%2357A143)
 ![React](https://img.shields.io/badge/React-React?style=flat&logo=React&logoColor=white&color=%2361DAFB)
 
-<img width="256" height="192" alt="TBG_141A NBFC" src="https://github.com/user-attachments/assets/2ca5ec40-4316-420b-85a3-b43ef92780cd" />
+<img width="256" height="192" alt="welcome-github" src="https://github.com/user-attachments/assets/1cfffa9a-db2b-4819-8e99-63870729df80" />
 
 #### ✧ Wisdom:
 
